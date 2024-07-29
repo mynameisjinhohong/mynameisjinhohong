@@ -3,6 +3,7 @@
 ### 🐾 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisjinhohong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisjinhohong&langs_count=10&layout=compact&title_color=F7BBBB&icon_color=F7BBBB&hide_border=true)﻿
+![snake gif](https://github.com/mynameisjinhohong/mynameisjinhohong/blob/output/github-contribution-grid-snake.svg)
 <br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmynameisjinhohong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
