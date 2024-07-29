@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rock+Salt&size=40&pause=1000&color=F7BBBB&random=false&width=1000&height=100&lines=Welcome+To+HongJinHo+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Brush+Script&size=40&pause=1000&random=true&width=1000&height=100&lines=Welcome+To+HongJinHo+github)](https://git.io/typing-svg)
 ### 🐾 GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisjinhohong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisjinhohong&langs_count=10&layout=compact&title_color=F7BBBB&icon_color=F7BBBB&hide_border=true)﻿
