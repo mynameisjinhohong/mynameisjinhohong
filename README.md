@@ -25,7 +25,11 @@
 
 ### Git Animals
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/mynameisjinhohong"/>
+<img
+  src="https://render.gitanimals.org/farms/mynameisjinhohong"
+  width="600"
+  height="300"
+/>
 </a>
 
 **If you would like to know more about me, please visit the portfolio link above.**
