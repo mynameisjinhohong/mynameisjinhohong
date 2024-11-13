@@ -21,7 +21,10 @@
 ### 🔗 Links
 <a href="https://blog.naver.com/PostList.naver?blogId=ghddhksduq&from=postList&categoryNo=36&parentCategoryNo=36" target="_blank"><img src="https://img.shields.io/badge/Blog -03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://vine-innovation-3d0.notion.site/632c3b712d4f4e189255b1b8f62a99ad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio -333333?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vSeGO4tjbYPaJ0y_zpYf5ahGl0hg9p_bSgU5ZBcYY2oLRBRnz_dd7pvPZXZ4eKLTw/pub">
+               <img src="https://img.shields.io/badge/RESUME-%231976D2.svg?logo=googledocs&logoColor=white&link=https://docs.google.com/document/d/e/2PACX-1vTXNC_ze6iVFi4_fhG4JtNtGaQS2gXRW8S5B4muVOMKx4wliZHers3_VOZjvHO4EycGj9G3qNw0EAfF/pub"/>
 <br>
+
 **If you would like to know more about me, please visit the portfolio link above.**
 
 ### Git Animals
