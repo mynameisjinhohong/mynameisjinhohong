@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisjinhohong&langs_count=10&layout=compact&title_color=F7BBBB&icon_color=F7BBBB&hide_border=true)﻿
 ![snake gif](https://github.com/mynameisjinhohong/mynameisjinhohong/blob/output/github-contribution-grid-snake.svg)
 <br>
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=blue&label=hits&size=small)](https://myhits.vercel.app)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmynameisjinhohong?color=green&label=hits&size=small)](https://myhits.vercel.app)
 <br>
 ### 백준
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ghddhksduq)](https://solved.ac/ghddhksduq)
