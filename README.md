@@ -1,8 +1,8 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nanum+Brush+Script&size=40&pause=1000&random=true&width=1000&height=100&lines=Welcome+To+HongJinHo+github)](https://git.io/typing-svg)
 ### 🐾 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisjinhohong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisjinhohong&langs_count=10&layout=compact&title_color=F7BBBB&icon_color=F7BBBB&hide_border=true)﻿
+//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mynameisjinhohong&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisjinhohong&langs_count=10&layout=compact&title_color=F7BBBB&icon_color=F7BBBB&hide_border=true)﻿
 ![snake gif](https://github.com/mynameisjinhohong/mynameisjinhohong/blob/output/github-contribution-grid-snake.svg)
 <br>
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmynameisjinhohong?color=green&label=hits&size=small)](https://myhits.vercel.app)
