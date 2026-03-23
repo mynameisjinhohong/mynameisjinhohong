@@ -17,7 +17,7 @@
 |2019.03 - Present|중앙대학교 예술공학대학 재학|[Art & Tech](https://artech.cau.ac.kr/)|
 |2022.05 - 2022.12|메타버스 아카데미 1기|[Metaverce Academy](https://mtvs.kr/user/main/)|
 |2024.06 - 2024.12|카카오테크 부트캠프 1기|[KakaoTech Bootcamp](https://ktb.goorm.io/)|
-|2025.04 - Present|Invant 재직 중|[Invant](https://invant.co/)|
+|2025.04 - Present|Invant|[Invant](https://invant.co/)|
 ### 🔗 Links
 <a href="https://blog.naver.com/PostList.naver?blogId=ghddhksduq&from=postList&categoryNo=36&parentCategoryNo=36" target="_blank"><img src="https://img.shields.io/badge/Blog -03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <a href="https://vine-innovation-3d0.notion.site/632c3b712d4f4e189255b1b8f62a99ad?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Portfolio -333333?style=flat-square&logo=notion&logoColor=white"/></a>
@@ -35,20 +35,3 @@
   height="300"
 />
 </a>
-
-
-
-<!--
-**mynameisjinhohong/mynameisjinhohong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
