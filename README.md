@@ -14,7 +14,7 @@
 
 |Duration|Experience|Info|
 |:-:|:-:|:-:|
-|2019.03 - Present|중앙대학교 예술공학대학 재학|[Art & Tech](https://artech.cau.ac.kr/)|
+|2019.03 - 2026.2|중앙대학교 예술공학대학 재학|[Art & Tech](https://artech.cau.ac.kr/)|
 |2022.05 - 2022.12|메타버스 아카데미 1기|[Metaverce Academy](https://mtvs.kr/user/main/)|
 |2024.06 - 2024.12|카카오테크 부트캠프 1기|[KakaoTech Bootcamp](https://ktb.goorm.io/)|
 |2025.04 - Present|Invant|[Invant](https://invant.co/)|
